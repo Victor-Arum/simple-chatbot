@@ -3,11 +3,11 @@
 This project features a simple chatbot designed to assist Adidas customers with various inquiries, including payment methods, order tracking, returns, refunds, and more. Built using natural language processing (NLP) and machine learning, the chatbot provides quick and helpful responses to improve the customer experience.
 
 ## Steps to run the program
-Open main.py.
-Install necessary libraries and tools.
-Run main.py.
-Open and running predict.py.
-Interact with the chatbot window.
+- Open main.py.
+- Install necessary libraries and tools.
+- Run main.py.
+- Open and running predict.py.
+- Interact with the chatbot window.
 
 ## Project Files
 1. adidas_chatbot.json
